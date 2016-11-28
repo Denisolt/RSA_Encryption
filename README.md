@@ -15,18 +15,20 @@ Execution:    java RSA n
 Generate an N-bit public and private RSA key and use to encrypt
 and decrypt a random message of size n/2.
 
-`% java RSA 50`
-`public  = 65537`
+```java
+% java RSA 50
+public  = 65537
 
-`private = 553699199426609`
+private = 553699199426609
 
-`modulus = 825641896390631`
+modulus = 825641896390631
 
-`message   = 48194775244950`
+message   = 48194775244950
 
-`encrpyted = 321340212160104`
+encrpyted = 321340212160104
 
-`decrypted = 48194775244950`
+decrypted = 48194775244950
+```
 
 Known bugs (not addressed for simplicity)
 -----------------------------------------
