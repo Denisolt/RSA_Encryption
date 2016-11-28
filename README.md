@@ -1,5 +1,5 @@
 # RSA_Encryption
-This program does simple RSA encryption
+This algorithm performs simple RSA encryption. 
 
 from Wiki:
 -----------------------------------------
