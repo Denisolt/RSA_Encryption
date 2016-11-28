@@ -9,13 +9,14 @@ RSA is the algorithm used by modern computers to encrypt and decrypt messages. I
 
 Important
 -----------------------------------------
-Compilation:  javac RSA.java
-Execution:    java RSA n
-
 Generate an N-bit public and private RSA key and use to encrypt
 and decrypt a random message of size n/2.
 
 ```java
+Compilation:  javac RSA.java
+
+Execution:    java RSA n
+
 % java RSA 50
 public  = 65537
 
